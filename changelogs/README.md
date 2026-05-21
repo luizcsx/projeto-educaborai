@@ -2,7 +2,7 @@
 
 Todas as alterações do **Projeto Educaboraí** são registradas aqui.
 
-## 10/05/2026
+## - 10/05/2026
 ### Adicionado
 - Criação dos templates personalizados de Issues (Sugestão de Matéria e Erro de Conteúdo).
 - Configuração de rótulos (Labels) personalizados para disciplinas de linguagens.
@@ -18,4 +18,10 @@ Todas as alterações do **Projeto Educaboraí** são registradas aqui.
 
 ## - 13/05/2026
 ### Adicionado
-- Criação da pasta "changelogs" e arquivo README.md.
+- Criação da pasta "changelogs" e arquivo `README.md`.
+
+## - 21/05/2026
+### Adicionado
+- Correção de trecho no `changelogs/README.md`.
+- Adição do arquivo `vercel.json` na raiz.
+- Atualização para repaginação da página `index.html`.
