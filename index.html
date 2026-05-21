@@ -3,33 +3,109 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EDUCABORAÍ - Site Oficial</title>
-      <style>
-    * {
-      text-align: left;
-    }
-    body {
-      padding: 20px;
-    }
-  </style>
+    <title>PROJETO EDUCABORAÍ - Site Oficial</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+    
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+        body {
+            background-color: #F0F0F2;
+            margin: 0;
+            padding: 20px;
+            font-family: 'Poppins', sans-serif; 
+        }
+        .container {
+            width: 100%;
+            max-width: 600px;
+            margin: 3em auto;
+            padding: 2.5em;
+            background-color: #FDFDFD;
+            border-radius: 0.5em;
+            box-shadow: 2px 3px 7px rgba(0,0,0,0.06);
+        }
+        .lta-parabens {
+            background-color: #2E3B75;
+            color: white;
+            padding: 12px;
+            text-align: center;
+            border-radius: 4px;
+            margin-bottom: 2em;
+            font-size: 0.9em;
+            font-weight: 600;
+        }
+        h1 {
+            margin-top: 0;
+            font-size: 1.8em;
+            font-weight: 600;
+            color: #2E2E2E;
+        }
+        p {
+            color: #4A4A4A;
+            line-height: 1.6em;
+            font-size: 0.95em;
+        }
+        h3 {
+            font-size: 1.05em;
+            color: #2E2E2E;
+            margin-top: 1.8em;
+            margin-bottom: 0.5em;
+            font-weight: 600;
+        }
+        ul {
+            margin-top: 0.5em;
+            padding-left: 1.2em;
+            color: #4A4A4A;
+            line-height: 1.7em;
+            font-size: 0.95em;
+        }
+        li {
+            margin-bottom: 0.4em;
+        }
+        .footer-line {
+            margin-top: 2.5em;
+            border: 0;
+            border-top: 1px solid #E5E5E5;
+            margin-bottom: 1em;
+        }
+        .credits {
+            font-size: 0.85em;
+            color: #777777;
+        }
+        @media (max-width: 480px) {
+            .container {
+                padding: 1.5em;
+                margin: 1em auto;
+            }
+            h1 {
+                font-size: 1.5em;
+            }
+        }
+    </style>
 </head>
 <body>
 
-    <h1>PROJETO EDUCABORAÍ</h1>
-    <hr>
-    <p>Este site se encontra em construção.</p>
-    
-    <h3>O QUE TEREMOS POR AQUI:</h3>
-    <ul>
-        <li>Matérias de 1º ao 9º ano.</li>
-        <li>Minigames de perguntas interativas por digitação.</li>
-    </ul>
-    <br>
-    
-    <p>Em breve...</p>
+    <div class="container">
+        <div class="lta-parabens">
+            Parabéns, Itaboraí! Orgulho de fazer parte desta história.
+        </div>
 
-    <hr>
-    <p>Realização: <strong>Equipe SATURNO</strong> & <strong>Luiz Miguel</strong></p>
+        <h1>PROJETO EDUCABORAÍ</h1>
+        
+        <p>Este site se encontra em construção. Fique ligado(a)!</p>
+        
+        <h3>O QUE TEREMOS POR AQUI:</h3>
+        <ul>
+            <li>Matérias de 1º ao 9º ano.</li>
+            <li>Minigames de perguntas interativas por digitação.</li>
+        </ul>
+
+        <hr class="footer-line">
+        <p class="credits">Realização: <strong>Equipe SATURNO</strong> &amp; <strong>Luiz Miguel</strong></p>
+    </div>
 
 </body>
 </html>
