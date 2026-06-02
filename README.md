@@ -30,7 +30,7 @@ A plataforma foi desenvolvida para diferentes redes de ensino, mantendo as funci
 
 O projeto é aberto a parcerias com educadores e testadores de qualquer unidade escolar interessada em inovação tecnológica.
 1. Para entender as diretrizes de código, veja o [CONTRIBUTING.md](./CONTRIBUTING.md).
-2. Para sugerir a implementação em uma nova região ou escola, entre em contato por [e-mail](mailto:contato.luiz404@gmail.com) ou via Issues.
+2. Para sugerir a implementação em uma nova região ou escola, entre em contato por **[e-mail](mailto:contato.luiz404@gmail.com)** ou via Issues.
 
 ---
 
