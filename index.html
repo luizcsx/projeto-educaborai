@@ -3,30 +3,29 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Projeto Educaboraí - Em Breve...</title>
+    <title>Projeto Educaboraí | Em Breve</title>
     <link rel="preconnect" href="https://googleapis.com">
     <link rel="preconnect" href="https://gstatic.com" crossorigin>
     <link href="https://googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="static/css/all.css">
-    <script src="static/js/count-form.js"></script>
+    <link rel="shortcut icon" href="componentes/favicon.ico">
+    <link rel="stylesheet" href="componentes/css/index.css">
 </head>
 <body>
 
     <main class="main-panel">
         <header class="profile-header">
             <div class="logo-placeholder"></div>
-            <div class="status-badge">Em Breve...</div>
         </header>
 
         <div class="profile-body">
             <section class="info-section">
                 <h2>Sobre a Plataforma</h2>
                 <p class="description">
-                    Uma nova experiência de gamificação online focada no aprendizado direto. Pratique conteúdos escolares através de minigames dinâmicos criados pela nossa equipe para fixar o aprendizado.
+                    Uma nova plataforma educacional de gamificação online focada para crianças e adolescentes. Pratique conteúdos escolares reais através de minigames dinâmicos criados pela nossa equipe.
                 </p>
 
                 <article class="countdown-box" id="countdownBox">
-                    <span class="countdown-title" id="countdownTitle">Tempo Restante para o Lançamento</span>
+                    <span class="countdown-title" id="countdownTitle">Tempo restante para o lançamento</span>
                     <div class="timer-display" id="timerDisplay">
                         <div class="time-segment"><span id="days">00</span>d</div>
                         <div class="time-segment"><span id="hours">00</span>h</div>
@@ -37,11 +36,11 @@
             </section>
 
             <section class="showcase-section">
-                <h2>Mecânicas do Sistema</h2>
+                <h2>Nossas Mecânicas</h2>
                 <div class="game-features-list">
                     <div class="feature-row">
                         <strong>Minigames Práticos</strong>
-                        <p>Simulações interativas feitas para aplicar os conceitos estudados em sala de aula de maneira lúdica.</p>
+                        <p>Perguntas interativas feitas para aplicar os conceitos estudados em sala de aula de maneira lúdica.</p>
                     </div>
                     <div class="feature-row">
                         <strong>Sem Chutes!</strong>
@@ -56,16 +55,18 @@
         </div>
 
         <section class="notify-section">
-            <h3>Receber Notificações do Lançamento</h3>
+            <h3>Deseja receber notificações do lançamento?</h3>
             
             <form class="notify-form" id="launchForm" action="https://formsubmit.co/projetoeducaborai@gmail.com" method="POST">
                 <input type="hidden" name="_captcha" value="false">
-                <input type="email" class="notify-input" id="emailInput" name="email" placeholder="Digite seu melhor e-mail escolar ou pessoal" required>
+                <input type="email" class="notify-input" id="emailInput" name="email" placeholder="Digite aqui seu e-mail escolar ou pessoal." required>
                 <button type="submit" class="notify-btn" id="submitBtn">Enviar</button>
             </form>
             
             <div id="formFeedback" class="form-message"></div>
         </section>
     </main>
+
+    <script src="componentes/js/pedub000000001.js"></script>
 </body>
 </html>
