@@ -14,8 +14,8 @@ Atualmente, apenas a versão listada abaixo recebe atualizações de segurança 
 O Projeto Educaboraí preza pela integridade das informações passadas aos alunos. Se você encontrar uma vulnerabilidade técnica ou um erro grave de conteúdo que possa comprometer o aprendizado, siga os passos abaixo:
 
 1. **Não abra uma Issue pública para reportar falhas de segurança que permitam a manipulação de respostas ou acesso indevido**.
-2. **Entre em contato diretamente** com o mantenedor do projeto através do **[e-mail](mailto:contato.luiz404@gmail.com)** ou canais de comunicação fornecidos no perfil do GitHub.
-3. Descreva **detalhadamente** o problema e, se possível, os passos para reproduzi-lo.
+2. **Entre em contato diretamente** com o mantenedor do projeto através do e-mail **[projetoeducaborai@gmail.com](mailto:projetoeducaborai@gmail.com)** ou diretamente pelas nossas redes sociais.
+3. Descreva **detalhadamente** o problema.
 
 ## Segurança do Aluno
 
