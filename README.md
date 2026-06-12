@@ -7,7 +7,7 @@
 
 O **Projeto Educaboraí** (ou simplesmente **Educaboraí**) é uma plataforma educacional desenvolvida para estudantes do Ensino Fundamental do município de **Itaboraí** e de munciípios vizinhos. O objetivo da iniciativa é transformar os conteúdos ensinados em sala de aula em uma experiência digital interativa, dinâmica e de fácil acesso.
 
-**Acesse a plataforma: [https://projeto-educaborai.vercel.app](https://projeto-educaborai.vercel.app)**
+**Acesse a plataforma: [https://projeto-educaborai.pages.dev](https://projeto-educaborai.pages.dev)**
 
 ---
 
