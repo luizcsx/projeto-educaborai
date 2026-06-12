@@ -1,39 +1,47 @@
 # Projeto Educaboraí
 
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=flat-square) ![Licença](https://img.shields.io/badge/Licença-MIT-blue?style=flat-square) ![Regional](https://img.shields.io/badge/Versão-Regional-purple?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-red?style=flat)
+![Licença](https://img.shields.io/badge/Licença-MIT-blue?blue=flat)
+![Regional](https://img.shields.io/badge/Versão-Regional-yellow?style=flat)
+![Acessível](https://shields.io/badge/Acess%C3%ADvel_com-VLibras-green?style=flat)
 
-O **Projeto Educaboraí** (ou apenas **Educaboraí**) é uma plataforma educacional voltada para alunos do **Ensino Fundamental** e **Ensino Médio** de Itaboraí. O objetivo é transformar o conteúdo passado em sala de aula em uma experiência digital acessível e interativa.
+O **Projeto Educaboraí** (ou simplesmente **Educaboraí**) é uma plataforma educacional desenvolvida para estudantes do Ensino Fundamental do município de **Itaboraí** e de munciípios vizinhos. O objetivo da iniciativa é transformar os conteúdos ensinados em sala de aula em uma experiência digital interativa, dinâmica e de fácil acesso.
 
-**Acesse o site: [https://projeto-educaborai.vercel.app](https://projeto-educaborai.vercel.app)**
+**Acesse a plataforma: [https://projeto-educaborai.vercel.app](https://projeto-educaborai.vercel.app)**
 
 ---
 
 ## Estrutura Multirregional
 
-A plataforma foi desenvolvida para diferentes redes de ensino, mantendo as funcionalidades principais:
+A plataforma foi projetada para atender diferentes redes de ensino, mantendo suas funcionalidades principais:
 
-### Arena de Minigames (Lado do Aluno)
-- **Desafios por Matéria:** Português, Matemática, Ciências e outras disciplinas transformadas em atividades interativas.
-- **Foco em Fixação:** O conteúdo segue a base curricular ensinada em sala de aula nas escolas de Itaboraí.
-- **Identidade Local:** Atividades que valorizam as raízes e a história de cada cidade atendida.
+### Arena de Minigames (Área do Aluno)
+- **Desafios por Matéria:** Atividades interativas focadas em disciplinas como Língua Portuguesa, Matemática, Ciências, e entre outros.
+- **Foco na Fixação:** Conteúdos alinhados com o que é ensinado em sala de aula nas escolas locais.
+- **Valorização Local:** Tarefas e jogos que resgatam a história, a geografia e a cultura de cada município.
 
-### Fórum de Discussão (Lado do Educador)
-- **Ambientes Restritos:** Espaço exclusivo para professores, mediadores, coordenadores e orientadores educacionais.
-- **Debate Técnico:** Revisão de conteúdos, discussão de metodologias e suporte administrativo.
+### Fórum de Discussão (Área do Educador)
+- **Ambiente Restrito:** Um espaço exclusivo e seguro para professores, mediadores, coordenadores e orientadores educacionais.
+- **Debate Pedagógico:** Compartilhamento de metodologias de ensino, revisão de conteúdos e suporte técnico.
 
 > [!NOTE]
-> A plataforma é otimizada, revisada e testada para o uso em dispositivos móveis, garantindo acesso em diferentes dispositivos.
+> A interface da plataforma é totalmente otimizada e testada para celulares e tablets, garantindo a inclusão digital e o acesso de qualquer dispositivo.
 
 ---
 
-## Colaboração
+## Colaboração e Parcerias
 
-O projeto é aberto a parcerias com educadores e testadores de qualquer unidade escolar interessada em inovação tecnológica.
-1. Para entender as diretrizes de código, veja o [CONTRIBUTING.md](./CONTRIBUTING.md).
-2. Para sugerir a implementação em uma nova região ou escola, entre em contato por **[e-mail](mailto:contato.luiz404@gmail.com)** ou via Issues.
+O projeto está aberto à parceria com educadores, escolas e testadores que tenham interesse em inovação tecnológica aplicada à educação.
+
+1. Para entender os padrões de desenvolvimento e diretrizes do código, veja o arquivo [CONTRIBUTING.md](./CONTRIBUTING.md).
+2. Para sugerir a implementação da plataforma em novas escolas ou redes de ensino, entre em contato pelo e-mail **[projetoeducaborai@gmail.com](mailto:projetoeducaborai@gmail.com)** ou abra uma *Issue* no repositório.
 
 ---
 
-## Licença
+## Fundador e Licença
 
-Projeto distribuído sob a **Licença MIT**. **©2026 Projeto Educaboraí**.
+O **Projeto Educaboraí** é uma iniciativa idealizada, fundada e desenvolvida inteiramente por **Luiz Miguel**.
+
+Este projeto de código aberto é distribuído sob a **[Licença MIT](./LICENSE)**.
+
+**© 2026 Projeto Educaboraí. Todos os direitos reservados.**
