@@ -33,8 +33,7 @@ A plataforma foi projetada para atender diferentes redes de ensino, mantendo sua
 
 O projeto está aberto à parceria com educadores, escolas e testadores que tenham interesse em inovação tecnológica aplicada à educação.
 
-1. Para entender os padrões de desenvolvimento e diretrizes do código, veja o arquivo [CONTRIBUTING.md](./CONTRIBUTING.md).
-2. Para sugerir a implementação da plataforma em novas escolas ou redes de ensino, entre em contato pelo e-mail **[projetoeducaborai@gmail.com](mailto:projetoeducaborai@gmail.com)** ou abra uma *Issue* no repositório.
+Para sugerir a implementação da plataforma em novas escolas ou redes de ensino, entre em contato pelo e-mail **[projetoeducaborai@gmail.com](mailto:projetoeducaborai@gmail.com)** ou abra uma *Issue* no repositório.
 
 ---
 
