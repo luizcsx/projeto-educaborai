@@ -25,3 +25,26 @@ Todas as alterações do **Projeto Educaboraí** são registradas aqui.
 - Correção de trecho no `changelogs/README.md`.
 - Adição do arquivo `vercel.json` na raiz.
 - Atualização para repaginação da página `index.html`.
+
+## - 23/05/2026
+### Adicionado
+- Novo LTA adicionado para parabenizar Itaboraí.
+
+## - 02/06/2026
+### Adicionado e Corrigido
+- Reformulação do site em `index.html`.
+- Adição e correção de caminhos de diretórios.
+- Adição de CSS3 para "todas" as páginas.
+- Adição de contagem regressiva do lançamento do site.
+- Adições e remoções de `.gitkeep`.
+
+## - 11/06/2026
+### Adicionado
+- Remoção do antigo diretório `/static`.
+- Alterações de textos.
+- Adição de novos diretórios.
+- Adição da logotipo oficial.
+- Remoção do `CONTRIBUTING.md`.
+- Correções no `SECURITY.md`.
+- Atualizações no site.
+- Adição da favicon.
